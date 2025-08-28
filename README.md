@@ -1,4 +1,5 @@
-## Hi there 👋
+My name is Gregory Richmond. I am a computer science major at Wright State University.
+In the past, I have coded a mini battle ships game in C++ and the game snake in Java.
 
 <!--
 **GregL316/GregL316** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
